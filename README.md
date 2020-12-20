@@ -13,3 +13,9 @@
 
  xcopy [source]* [destination\]%date:/=% /s /e /y /c /f /z /i
  ```
+
+
+
+|Option|Function|
+|------|--------|
+|/s|Copy folder and subfolder|
