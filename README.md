@@ -19,3 +19,8 @@
 |Option|Function|
 |------|--------|
 |/s|Copy folder and subfolder|
+|------|--------|
+|/e|Also copy empty folder|
+|------|--------|
+|/y|Does not ask if you want to overwrite a file|
+|------|--------|
